@@ -19,7 +19,7 @@ import json
 # ------------------------------------------
 # Setup Gemini API
 # ------------------------------------------
-API_KEY = "AIzaSyC1C1qYKIDY4ber5GT7S7p5-HqLRUmLbs8"
+API_KEY = ""
 genai_client = genai.Client(api_key=API_KEY)
 
 # ------------------------------------------
