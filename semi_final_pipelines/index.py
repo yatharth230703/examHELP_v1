@@ -42,7 +42,7 @@ def extract_text_from_pdf(pdf_path):
 
 def generate(text_content,out):
     client = genai.Client(
-        api_key="AIzaSyC1C1qYKIDY4ber5GT7S7p5-HqLRUmLbs8",
+        api_key="",
     )
 
     model = "gemini-2.0-flash"
